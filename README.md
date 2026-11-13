@@ -4,9 +4,9 @@ Projeto desenvolvido em **React**, **TypeScript** e **Vite**, com foco em design
 
 ---
 
-## 📌 Documentação Completa da Fase 2
-Para a explicação detalhada de cada conceito, decisões de arquitetura e estrutura de código, consulte o arquivo dedicado:
-👉 **[DOCUMENTACAO_FASE2.md](./DOCUMENTACAO_FASE2.md)**
+## 📌 Documentação do Projeto
+* **Fase 3 (Componentes, Dados e Estado — Explicado do Zero):** 👉 **[DOCUMENTACAO_FASE3.md](./DOCUMENTACAO_FASE3.md)**
+* **Fase 2 (Interface em JSX e CSS):** 👉 **[DOCUMENTACAO_FASE2.md](./DOCUMENTACAO_FASE2.md)**
 
 ---
 
